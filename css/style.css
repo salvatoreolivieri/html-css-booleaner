@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+}
+
+.header{
+  background-image: url(../img/pattern.png);
+  background-color: #4FA0FF;
+  background-size: 30%;
+}
+
+.logo{
+  width: 20%;
+  height: 10%;
+}
