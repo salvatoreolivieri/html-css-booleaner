@@ -9,11 +9,12 @@
 }
 
 .main, .footer{
-  margin: 20px 10px 20px;
+  margin: auto;
+  width: 80%;
 }
 
 .logo{
-  width: 15%;
+  width: 32%;
   height: 60px;
   padding-top: 30px;
 }
@@ -47,6 +48,9 @@ table, th, td {
   border-collapse: collapse;
 }
 
+.riga-larga{
+  width: 50%;
+}
 .fonti-immagini{
   margin-bottom: 20px;
   font-size: 12px;
@@ -64,13 +68,13 @@ mark{
   background-color: yellow;
 }
 
-.prima-riga{
+.titolo-tabella{
   background-color: #38A9E5;
   color:white;
   column-width: 150px;
 }
 
-.riga-azzurra{
+.riga-colorata{
   background-color: #B1E5F2;
 }
 
