@@ -5,18 +5,85 @@
 .header{
   background-image: url(../img/pattern.png);
   background-color: #4FA0FF;
-  background-size: 30%;
+  background-size: 19%;
+}
+
+.main, .footer{
+  margin: 20px 10px 20px;
 }
 
 .logo{
-  width: 20%;
-  height: 10%;
+  width: 15%;
+  height: 60px;
+  padding-top: 30px;
+}
+
+.titolo{
+  font-size: 50px;
+}
+
+.link{
+  color: #60C3ED;
+  text-decoration: none;
+}
+
+.intestazione{
+  color: #A7A7A7;
+}
+
+table{
+  width: 80%;
+}
+
+th{
+  text-align: left;
+}
+
+td{
+  height: 70px;
+}
+
+table, th, td {
+  border-collapse: collapse;
+}
+
+.fonti-immagini{
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+
+table, .testo, .elenco-puntato, .conclusione{
+  margin-bottom: 20px;
+}
+
+.immagini{
+  margin-top: 20px;
+}
+
+mark{
+  background-color: yellow;
+}
+
+.prima-riga{
+  background-color: #38A9E5;
+  color:white;
+  column-width: 150px;
+}
+
+.riga-azzurra{
+  background-color: #B1E5F2;
+}
+
+h2{
+  color: white;
+  padding:10px
 }
 
 .articolo-monitor{
   background-image: url(../img/monitor.jpg);
   width: 300px;
   height: 200px;
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 
@@ -25,3 +92,4 @@
   width: 300px;
   height: 200px;
 }
+
